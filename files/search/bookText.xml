@@ -1,0 +1,8648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="53"><page Index="1"/><page Index="2"><![CDATA[i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            PRAKATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Puji syukur kehadirat Tuhan Yang Maha Esa atas berkat
+
+
+                    dan  rahmat-Nya  penulis  mampu  menyelesaikan  penulisan
+
+
+
+                    modul                    pembelajaran                                ini.          Modul                   ini           disusun                    sebagai
+
+
+                    produkpengembangan  skripsi  serta  dapat  digunakan  sebagai
+
+
+
+                    bahan  ajar  siswa  dalam  meningkatkan  kemandirian  belajar
+
+
+                    matematika  terkhusus  pada  materi  Vektor  sesuai  dengan
+
+
+
+                    Capaian  Pembelajaran  pada  materi  Vektor  untuk  SMA/MA
+
+
+
+                    Kelas  X  sesuai  dengan  Keputusan  Menteri  Pendidikan  dan
+
+
+                    Kebudayaan  Republik  Indonesia  Nomor  958/P/2020  tentang
+
+
+
+                    Capaian  Pembelajaran  pada  Pendidikan  Anak  Usia  Dini,
+
+
+
+                    Pendidikan Dasar, dan Pendidikan Menengah.
+
+
+                                  Materi  vektor  pada  pembelajaran  matematika  dianggap
+
+
+
+                    abstrak,  sulit,  dan  kurang  relevan  dalam  kehidupan.  Padahal
+
+
+                    acap  kali  kita  menemukan  konsep  dan  prinsip  vektor  dalam
+
+
+
+                    kehidupan  sehari-hari.  Contoh  sederhana  ketika  seorang  anak
+
+
+                    bermain  sepak  bola,  mereka  mampu  memperkirakan  arah
+
+
+
+                    tendangan  dan  kelajuan  bola  agar  bola  mencapai  rekan  satu
+
+
+
+                    tim  atau  memasuki  gawang.  Tanpa  kita  sadari,  permainan
+
+
+                    bidang  olahraga  ini  mengandung  prinsip  vektor  karena
+
+
+
+                    memerlukan  jarak  dan  arah  serta  besar  dan  arah  kecepatan.
+
+
+
+                    Oleh  karena  itu,  melalui  modul  pembelajaran  ini  penulis
+
+
+                    berharap  dapat  mengubah  mispersepsi  siswa  terhadap
+
+
+
+                    matematika                               dengan                      pendekatan                              kontekstual                             melalui
+
+
+                    permasalahan  kehidupan  nyata  dan  melibatkan  siswa  secara
+
+
+
+                    aktif  dalam  bereksplorasi  dengan  pertanyaan  penuntut.
+
+
+                    Sebagian  besar  materi  dalam  modul  pembelajaran  ini
+
+
+
+                    diupayakan menarik perhatian siswa selayaknya penyampaian
+
+
+
+                    materi  konvensional  namun  dapat  diakses  secara  fleksibel.
+
+
+                    Siswa  akan  diarahkan  untuk  berpikir  kritis  dan  kreatif  melalui
+
+
+
+                    evaluasi dengan soal-soal tipe HOTS. Selain itu, pada beberapa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="3"><![CDATA[ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      kesempatan                                siswa                  dapat                    berdiskusi,                          berkomunikasi,
+
+
+
+                      bekerjasama,                                 dan                 memanfaatkan                                       teknologi                          dalam
+
+
+                      menyelesaikan  permasalahan  sehingga  mampu  mengasah
+
+
+
+                      kemampuan  sesuai  dengan  Profil  Pelajar  Pancasila  dan
+
+
+
+                      keterampilan abad 21.
+
+
+                                  Ucapan  terimakasih  disampaikan  kepada  berbagai  pihak
+
+
+
+                      yang telah membantu menyelesaikan modul pembelajaran ini,
+
+
+                      terkhusus dosen pembimbing I, Bapak Hari Purnomo Susanto,
+
+
+
+                      M. Pd., dosen pembimbing II, Ibu Khoirul Qudsiyah, M. Pd., atas
+
+
+                      bimbingan  dan  masukan  berharga  dari  awal  hingga  akhir
+
+
+
+                      penulisan, guru matematika kelas X SMK Negeri 1 Pacitan, Ibu
+
+
+
+                      Wuri  Handayani,  M.  Pd,  Ibu  Bayu  Septiarini,  S.  Pd.,  serta
+
+
+                      bapak/ibu guru matematika di SMK Negeri 1 Pacitan yang telah
+
+
+
+                      berkenan  berbagi  ilmu  serta  memberikan  arahan  demi
+
+
+
+                      terselesainya produk ini.
+
+
+                                Penulis  menyadari  sepenuhnya  jika  terdapat  kekurangan
+
+
+
+                      pada  modul  ini.  Oleh  sebab  itu,  penulis  menerima  segala
+
+
+                      masukan  dan  kritikan  kontruktif  dari  berbagai  pihak  demi
+
+
+
+                      kesempurnaan pembuatan maupun pengembangan produk di
+
+
+                      masa yang akan datang.
+
+
+
+                              Akhir kata, besar harapan penulis supaya modul ini mampu
+
+
+
+                      bermanfaat  bagi  siswa  dalam  memahami  materi  vektor  pada
+
+
+                      pembelajaran matematika SMA/MA Kelas X sehingga semakin
+
+
+
+                      banyak  pula  siswa  yang  menyukai  dan  merasakan  manfaat
+
+
+                      belajar matematika.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                 Selamat bermatematika!
+
+
+                                                                                                 Pacitan, Januari 2024
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                 Penulis
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="4"><![CDATA[iii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                         DAFTAR ISI
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Prakata...........................................................................i
+
+
+
+                          Daftar Isi.........................................................................iii
+
+
+
+                          Daftar Gambar...............................................................iv
+
+
+
+                          Petunjuk Penggunaan Modul.......................................v
+
+
+
+
+                          Pengalaman Belajar......................................................vi
+
+
+
+                          Peta Konsep..................................................................vii
+
+
+
+                          Sub Materi 1:
+
+
+
+
+                                    Terminologi, Notasi dan Jenis Vektor...............1
+
+
+
+                                    Refleksi.................................................................8
+
+
+
+                                    Latihan 1.1............................................................9
+
+
+
+                                    Latihan 1.2............................................................10
+
+
+
+                          Sub Materi 2:
+
+
+
+
+                                    Vektor dan Sistem Koordinat.............................11
+
+
+
+                                    Refleksi.................................................................22
+
+
+
+                                    Latihan 1.3............................................................23
+
+
+
+
+                          Sub Materi 3:
+
+
+
+                                    Operasi Vektor.....................................................24
+
+
+
+                                    Refleksi.................................................................28
+
+
+
+                                    Latihan 1.4............................................................29
+
+
+
+                          Kunci Jawaban & Pembahasan....................................31
+
+
+
+
+                          Daftar Pustaka
+
+
+
+                          Biodata Penulis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="5"><![CDATA[iv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          DAFTAR GAMBAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Gambar 1.1 Prediksi Kecepatan Lempeng Bumi
+
+
+
+                          Gambar 1.2 Terjun Payung
+
+
+                          Gambar 1.3 Kapal Layar
+
+
+                          Gambar 1.4 Petunjuk Lokasi dengan Arah dan Jarak
+
+
+
+                          Gambar 1.5 Lempar Lembing
+
+
+
+                          Gambar 1.6 Sepak Bola
+
+
+                          Gambar 1.7 Panahan
+
+
+                          Gambar 1.8 Vektor dan Notasi
+
+
+
+                          Gambar 1.9 Busur
+
+
+
+                          Gambar 1.10 Arah mata angin dan besar sudutnya
+
+
+                          Gambar 1.11 Besar dan arah vektor
+
+
+                          Gambar 1.12 Waktu menunjukkan pukul 08.15
+
+
+
+                          Gambar 1.13 Vektor dan vektor lawan
+
+
+
+                          Gambar 1.14 Contoh bukan vektor lawan
+
+
+                          Gambar 1.15 Vektor nol
+
+
+                          Gambar 1.16 Vektor ekuivalen
+
+
+
+                          Gambar 2.1 Posisi pesawat terbang dalam sistem koordinat kartesius
+
+
+
+                          Gambar 2.2 Vektor AB dan komponen-komponennya
+
+
+                          Gambar 2.3 Dua vektor ekuivalen pada sistem koordinat
+
+
+                          Gambar 2.4 Vektor PQ
+
+
+
+                          Gambar 2.5 Vektor posisi OA dan OB
+
+
+
+                          Gambar 3.1 Perkalian skalar dengan vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="6"><![CDATA[v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Petunjuk Penggunaan Modul
+
+
+
+
+
+
+
+
+
+
+
+
+                           Untuk                       memperoleh                                    prestasi                          belajar                       secara
+
+
+
+                           maksimal,  maka  langkah-langkah  yang  perlu
+
+
+
+
+                           dilaksanakan  dalam  mengoperasikan  modul  ini
+
+
+
+                           antara lain:
+
+
+
+
+                                1.    Baca  dan  pahami  tujuan  pembelajaran  dari
+
+
+
+                                      setiap kegiatan belajar.
+
+
+
+                                2.    Baca  dan  pahami  materi  yang  ada  pada  setiap
+
+
+
+
+                                      kegiatan  belajar.  Bila  ada  materi  yang  belum
+
+
+
+                                      jelas,  siswa  dapat  mencari  pada  referensi  lain
+
+
+
+
+                                      atau bertanya kepada guru jika berada di kelas.
+
+
+
+                                3.    Baca dan pahami rangkuman materi yang berisi
+
+
+
+
+                                      poin  penting  yang  mengacu  pencapaian  tujuan
+
+
+
+                                      pembelajaran.
+
+
+
+                                4.    Kerjakan  latihan  dan  tes  formatif  pada  tiap
+
+
+
+
+                                      kegiatan  belajar  untuk  mengasah  pemahaman
+
+
+
+                                      terkait materi.
+
+
+
+
+                           Demi  kelancaran  akses  e-modul,  maka  langkah-
+
+
+
+                           langkah berikut perlu dilaksanakan, antara lain:
+
+
+
+
+                                1.    Pastikan kuota cukup dan sinyal kuat.
+
+
+
+                                2.    Pastikan  kapasitas  baterai  cukup,  isi  daya
+
+
+
+                                      baterai dulu jika dibutuhkan.
+
+
+
+
+                                3.    Hapus tab browser yang tidak digunakan.
+
+
+
+                                4.    Copy/salin                                link                modul                        ini                       kemudian
+
+
+
+
+                                      paste/tempel  ke  web  browser  Edge,  Chrome,
+
+
+
+                                      atau sejenisnya (bisa melalui scan barcode).
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="7"><![CDATA[vi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  Pengalaman Belajar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         Setelah  mempelajari  bab  ini,  siswa  diharapkan
+
+
+
+
+
+                         mampu menguasai hal-hal berikut.
+
+
+
+
+
+
+                              1.    Menyatakan                                          vektor                            dalam                             berbagai
+
+
+
+
+                                    representasi.
+
+
+
+
+
+
+                              2.    Menunjukkan beberapa jenis vektor.
+
+
+
+
+
+                              3.    Menyatakan                                       vektor                          dalam                          komponen-
+
+
+
+
+
+                                    komponen sistem koordinat.
+
+
+
+
+
+                              4.    Melakukan                                           operasi                                  vektor                                serta
+
+
+
+
+
+                                    menginterpretasikan                                                               hasilnya                                    secara
+
+
+
+
+
+                                    geometris dan fisik.
+
+
+
+
+
+                              5.    Menggunakan                                               operasi                              vektor                            untuk
+
+
+
+
+
+                                    menyelesaikan  masalah  dalam  kehidupan
+
+
+
+
+
+                                    sehari-hari.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="8"><![CDATA[vii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Peta Konsep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="9"><![CDATA[1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       A. Terminologi, Notasi
+
+
+
+
+
+
+
+
+                                                       dan Jenis Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Pertanyaan Pemantik
+
+
+
+
+                                       1.   Bagaimana merepresentasikan vektor?
+
+
+                                       2.   Apakah  vektor  dapat  dioperasikan  seperti  bilangan
+
+
+                                            biasa?
+
+
+                                       3.   Apa  pentingnya  peran  vektor  dalam  kehidupan
+
+
+
+                                            sehari-hari?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                               Pengalaman Belajar
+
+
+
+
+
+
+
+
+
+                                                                        •Menyatakan vektor dalam
+
+
+
+                                                                               berbagai representasi
+
+
+
+
+                                                                          •Menunjukkan jenis-jenis
+
+
+
+                                                                                                      vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           Sediakan penggaris dan busur.
+
+
+
+                                Install aplikasi Geogebra pada PC/Laptop/Notebook
+
+
+
+                                                                            apabila diperlukan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="10"><![CDATA[2
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                             Perhatikan
+
+
+
+
+
+
+
+                                                                                                                                    ilustrasi
+
+
+
+
+
+
+                                                                                                                                       berikut!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Gambar 1.1 Prediksi Kecepatan Lempeng Bumi
+
+                     Sumber: https://www.its.ac.id/tgeofisika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                 Gambar 1.3 Kapal Layar
+
+
+                                                                                                                           Sumber: https://pixabay.com/id
+
+
+
+
+                                    Gambar 1.2 Terjun Payung
+
+
+                                  Sumber: https://superlive.id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Gambar 1.5 Lempar Lembing
+
+                                                                                                                                                 Sumber:
+
+
+                                                                                                                      https://www.diamondleague.com
+                       Gambar 1.4 Petunjuk Lokasi dengan
+
+                                              Arah dan Jarak
+
+
+                                   Sumber: https://futake.co.id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                    Gambar 1.7 Panahan
+
+
+                                                                                                                            Sumber: https://nakita.grid.id
+
+
+
+
+                                        Gambar 1.6 Sepak Bola
+
+
+                              Sumber: https://kumparan.com
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="11"><![CDATA[3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                   Taukah kalian apakah
+
+                                                                                                                                     terdapat kesamaan
+
+
+                                                                                                                                    dari gambar-gambar
+
+                                                                                                                                              tersebut ?
+
+
+
+
+
+
+
+                                                                             Perhatikan video berikut ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Vektor adalah ruas garis berarah yang memiliki besaran
+
+
+
+                                                                        (nilai) dan arah tertentu
+
+
+
+                                                                                 Notasi:
+                                                           B
+
+
+
+                              a                    arah                           1.      AB atau AB (cetak tebal), dimana A adalah
+
+
+
+                           panjang                                                        pangkal vektor, sedangkan B adalah ujung vektor
+                                                                                          atau titik ujung.
+
+     A
+   pangkal/                                                                       2. |AB|, merupakan panjang vektor AB
+
+     titik awal                                                                   3.     Penulisan vektor lainnya dengan menggunakan
+
+
+
+
+          Gambar 1.8 Vektor dan Notasi                                                   satu huruf yaitu a atau a atau A atau A
+
+                                                                                  Catatan: Penulisan notasi vektor pada modul ini menggunakan
+                                                                                  huruf  tebal,  tetapi  kalian  dapat  membuatnya  dengan
+
+                       KONSEP                                                     menggunakan anak panah.
+
+
+                        VEKTOR
+
+
+                                                                            Skalar                       merupakan besaran yang hanya memiliki
+                                                                                                                      nilai dan tidak memiliki arah
+
+
+
+
+
+           Besaran                                           Contoh: Jarak, Luas, Volume, Daya, Kelajuan, dll.
+
+
+
+
+
+
+
+                                                                            Vektor                            merupakan besaran yang memiliki nilai
+                                                                                                                                            dan arah
+
+
+
+
+                                                             Contoh: Perpindahan, Percepatan, Kecepatan, Gaya, dll.
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="12"><![CDATA[4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                       Selidiki apakah
+
+
+                                                                                                                                        bentuk-bentuk
+
+                                                                                                                                            berikut ini
+
+
+                                                                                                                                    merupakan vektor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                  Vektor memiliki pangkal
+
+                                                                                                 (titik awal), menunjukkan
+
+                                                                                                  1 arah secara lurus dan
+                                                                                                             tidak berliku.
+
+
+
+
+
+
+
+
+
+                                                              Kerjakan soal berikut dengan tepat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  1.   Panjang dan Arah Vektor
+
+
+
+
+
+
+                           Besar vektor identik dengan besar sudut, dapat ditunjukkan
+
+
+                             dengan busur. Sedangan Arah vektor mengacu pada arah
+
+
+                                                                                       mata angin.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                Ingat!. Dalam
+
+
+                                                                                                                                                                   mengukur
+
+                                                                                                                                                              sudut, pastikan
+
+
+                                                                                                                                                              garis alas busur
+
+                                                                                                                                                             berimpit di salah
+
+
+                                                                                                                                                              satu sudut pada
+
+                                                                                                                                                               kaki sudutnya.
+
+                             Gambar 1.9 Busur                                                                                                                      Ukur sudut
+
+                                        Sumber :
+
+                    https://www.shutterstock.com/id                                                  Gambar 1.10 Arah mata                                        mulai dari 0
+
+
+                                                                                                  angin dan besar sudutnya                                       derajat pada
+
+                                                                                                                      Sumber :                                         busur.
+                                                                                                  https://kisahpendakiangunungra
+
+                                                                                                              ung.blogspot.com
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="13"><![CDATA[5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                   Tentukan besar
+
+
+                                                                                                                                    dan arah pada
+
+
+                                                                                                                                    vektor berikut.
+
+
+
+
+
+
+
+                                                                                       Contoh:
+
+
+
+                                                                                       Untuk menentukan besar sudut dari vektor AB
+
+
+                                  2 cm                                                 berikut  terlebih  dahulu  gambarlah  garis
+
+
+
+                                                                                       horizontal sebagai patokan pada busur.
+
+
+
+                                   45                                                  Tentukan arahnya dengan memperhatikan arah
+
+                                                                                       mata angin.
+
+
+
+        Gambar 1.11 Besar dan arah vektor                                              Ukur panjangnya menggunakan penggaris.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                         Perhatikan gambar berikut.
+
+            Gambarlah  arah  jam  tersebut  dalam  buku
+
+
+            latihanmu!
+
+
+            Kemudian jawablah latihan soal berikut.
+
+
+
+            Jika diketahui panjang titik pusat jarum jam
+
+
+            ke  arah  angka  8  merupakan  vektor  BA
+
+
+
+            dengan panjang 3 cm, maka....
+
+
+               1.   Besar sudut pada vektor BA adalah....
+
+
+               2.   Vektor BA menunjukkan arah.....
+
+
+                                                                                                                                         Gambar 1.12
+                                                                                                                          Waktu menunjukkan pukul
+
+
+                    Gunakanlah Busur!                                                                                                            08.15
+                                                                                                                   Sumber : https://pontianak.tribunnews.com
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="14"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                               2. Vektor Negatif
+
+
+
+
+
+                                                                                                                        atau
+
+
+
+
+
+                                                                                                      Vektor Lawan
+
+
+
+
+
+
+
+                                       Perhatikan video berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     Vektor negatif atau vektor
+
+
+
+
+                                                                     lawan adalah vektor yang
+
+
+
+                                                             besarnya sama, tetapi arahnya
+
+
+
+
+                                                              berlawanan (apabila digambar
+
+
+
+                                                             menunjukkan garis sejajar atau
+
+
+
+
+                                                                                  satu garis lurus).
+
+
+
+
+
+
+
+
+
+                                      Sebuah mobil sedang melaju sejauh 100 m dengan
+
+
+
+                             kemiringan bidang atau arah 30, kemudian mobil tersebut
+
+
+
+                                                         berbalik arah menuju posisi semula.
+
+
+
+
+
+
+
+
+                           A                    A                                        Vektor A atau A menyatakan perpindahan mobil yang
+
+
+
+         -A                                                                                                                    pertama.
+
+                                                                                        Vektor -A atau -A menyatakan perpindahan mobil yang
+
+                                                             -A                                                                  kedua.
+
+
+                                                                                        Vektor A dan -A sama panjang tetapi berlawanan arah.
+
+                                                                                                                   -A adalah lawan dari A
+      Gambar 1.13 Vektor dan vektor
+
+
+                               lawan
+
+
+           Kedua vektor tersebut
+
+           sama               besar               tetapi
+
+           berlawanan arah.
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="15"><![CDATA[7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        Apakah vektor A
+
+
+                                                                                                                       merupakan lawan
+
+
+                                                                                                                           dari vektor B?
+
+
+
+
+
+
+                                                                                                                                                                       A
+
+
+
+
+
+
+
+
+
+
+                                           Vektor  A  bukan  merupakan  vektor
+
+
+                                           lawan  dari  B  karena  arahnya  tidak
+
+
+                                           berlawanan dengan vektor B.
+
+
+
+
+
+
+                                                                                                                                                                  B
+
+
+                                                                                                                                              Gambar 1.14 Contoh
+
+
+                                                                                                                                               bukan vektor lawan
+
+
+
+
+
+                                                                                     Ambil bukumu.
+
+
+
+                                                                                 Gambarkan vektor
+
+
+
+                                                                           lawan dari vektor A dan
+
+
+                                                                                            vektor B!
+
+
+
+
+
+
+
+
+
+                                                                               3. Vektor Nol 0
+
+
+
+
+                  Vektor nol adalah vektor dengan panjang nol dan tidak punya arah tertentu atau
+
+
+                            vektor dengan titik pangkal dan ujung yang sama (berimpit). Vektor nol
+
+
+                                                                dinyatakan dengan titik secara grafis.
+
+
+
+
+                                                      Perhatikan video berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Perpindahan 0
+
+
+
+                                            A                                                                 Sebuah mobil sedang melaju sejauh
+
+
+                                                                                                               100 m ke arah timur, kemudian 100
+
+
+                                                                                                             m ke arah barat maka mobil tersebut
+
+
+                                           -A                                                                         mengalami perpindahan 0.
+
+
+
+                          Gambar 1.15 Vektor nol
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="16"><![CDATA[8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                      4. Vektor Ekuivalen
+
+
+
+
+                                                                                                      (Vektor yang Sama)
+
+
+
+
+
+
+
+                                                Suatu vektor ekuivalen dengan vektor lain apabila mempunyai
+
+
+                                                 besar dan arah yang sama meskipun memiliki titik awal yang
+
+
+                                                                                                         berbeda.
+
+
+                                                 B
+
+
+
+
+                                                                   D
+
+
+                                                                                                                                     Tentukan vektor
+
+
+                                                                                                                                   ekuivalen AM, CN
+
+          A                                             F                                                                      serta AL pada segitiga
+
+
+
+                              C                                                                                                                berikut!
+
+
+
+
+
+
+
+
+
+                E
+
+
+         Gambar 1.16 Vektor ekuivalen
+
+
+
+
+
+
+                          Bentuklah kelompok yang terdiri dari 4-5 orang
+
+
+                              kemudian kerjakan soal pada form berikut!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Refleksi
+
+
+
+
+
+
+
+
+
+                               Vektor  adalah  ruas  garis  berarah  yang  memiliki  besaran  (nilai)  dan
+
+                               arah tertentu.
+
+
+                               Besar  vektor  identik  dengan  besar  sudut,  dapat  ditunjukkan  dengan
+
+                               busur. Sedangan Arah vektor mengacu pada arah mata angin.
+
+                               Vektor negatif atau vektor lawan adalah vektor yang besarnya sama,
+
+                               tetapi  arahnya  berlawanan  (apabila  digambar  menunjukkan  garis
+
+                               sejajar atau satu garis lurus).
+
+
+                               Vektor  nol  adalah  vektor  dengan  panjang  nol  dan  tidak  punya  arah
+
+                               tertentu  atau  vektor  dengan  titik  pangkal  dan  ujung  yang  sama
+
+                               (berimpit). Vektor nol dinyatakan dengan titik secara grafis.
+
+                               Suatu vektor ekuivalen dengan vektor lain apabila mempunyai besar
+
+                               dan arah yang sama meskipun memiliki titik awal yang berbeda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="17"><![CDATA[9
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                              Setelah mempelajari sub
+
+                                                                                                                             materi A, kerjakan latihan
+
+                                                                                                                            soal berikut bersama salah
+
+                                                                                                                            satu teman anda kemudian
+
+                                                                                                                             upload foto jawaban pada
+
+
+                                                                                                                            form yang telah disediakan.
+
+
+
+
+
+
+                                               Latihan 1.1
+
+
+
+
+
+
+
+
+     1.  Gambarkan vektor kecepatan mobil dengan kelajuan 60 km/jam dan menuju
+
+
+
+         arah  timur.  Tentukan  titik  awal  dan  titik  akhir.  Beri  nama  vektornya  dan
+
+
+         tuliskan skalarnya.
+
+
+       Petunjuk menyelesaikan soal            (Tuliskan nama arah setiap mata angin).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Untuk menggambarkan panjang vektor pikirkan skala 1 cm mewakili berapa
+
+
+       km/jam. Beri nama vektor tersebut berdasarkan titik awal (pangkal vektor) dan
+
+
+
+       titik akhir (ujung vektor).
+
+
+   2. Gambarkan vektor kecepatan mobil dengan kelajuan 45 km/jam dan menuju
+
+
+       arah tenggara. Tentukan titik awal dan titik akhir. Beri nama vektornya dan
+
+
+       tuliskan skalarnya.
+
+
+
+       Petunjuk menyelesaikan soal            (Tuliskan arah tenggara pada mata angin).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  3. Gambarkan vektor kecepatan mobil dengan kelajuan 60 km/jam dan menuju
+
+
+      arah barat daya. Tentukan titik awal dan titik akhir. Beri nama vektornya dan
+
+
+      tuliskan skalarnya.
+
+
+
+  4. Gambarkan vektor kecepatan mobil dengan kelajuan 60 km/jam dan arah gerak
+
+
+      membentuk sudut 45 0. Tentukan titik awal dan titik akhir. Beri nama vektornya
+
+
+      dan tuliskan skalarnya.
+
+
+  5. a. Gambarkan vektor kecepatan pesawat terbang dengan kelajuan 450
+
+
+
+      km/jam dan arah terbang membentuk sudut 1200.
+
+
+      b. Gambarkan vektor negative dari nomor a.
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="18"><![CDATA[10
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                              Setelah mempelajari sub
+
+                                                                                                                             materi A, kerjakan latihan
+
+                                                                                                                            soal berikut bersama salah
+
+                                                                                                                            satu teman anda kemudian
+
+                                                                                                                             upload foto jawaban pada
+
+
+                                                                                                                            form yang telah disediakan.
+
+
+
+
+
+
+
+
+
+
+
+                                               Latihan 1.2
+
+
+
+
+
+
+
+
+
+
+
+     1.   Tentukan nama, besar, dan arah dari setiap vektor di bawah ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  2. Gambarkan vektor-vektor negatif dari vektor-vektor OP, OQ, dan OR. Gunakan
+
+
+      skala untuk menggambar panjangnya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Upload foto jawaban anda pada
+
+
+                                                              link berikut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="19"><![CDATA[11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           B. Vektor dan Sistem
+
+
+
+
+
+
+
+
+                                                                            Koordinat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             Pertanyaan Pemantik
+
+
+
+
+                                 1.   Apakah  kalian  dapat  menunjukkan  komponen-
+
+
+                                      komponen suatu vektor dan menentukan panjangnya?
+
+
+                                 2.   Bagaimana  menyatakan  komponen-komponen  dalam
+
+
+                                      vektor kolom dan vektor baris?
+
+
+                                 3.   Apa perbedaan vektor posisi, vektor kolom, dan vektor
+
+
+                                      berkebalikan?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 Pengalaman Belajar
+
+
+
+
+
+
+                                                                             •Menyatakan vektor dalam
+
+                                                                                  berbagai representasi
+
+
+                                                                       •Menunjukkan jenis-jenis vektor
+
+                                                                             •Menyatakan vektor dalam
+
+                                                                              komponen-komponennya
+
+
+                                                                         berdasarkan sistem koordinat
+
+
+                                                                                                Kartesius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Sediakan penggaris, busur, dan kertas berpetak.
+
+
+
+                             Install aplikasi Geogebra pada PC/Laptop/Notebook
+
+
+
+                                                                         apabila diperlukan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="20"><![CDATA[12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     Sebelum lanjut pada sub materi ini,
+
+
+                                                                                  kalian harus paham mengenai notasi,
+
+
+
+                                                                                   vektor ekuivalen, dan vektor negatif.
+
+
+                                                                                       Ingatlah jika vektor memiliki titik
+
+
+
+                                                                                                  pangkal dan titik ujung.
+
+
+
+
+
+
+
+
+
+                                         Sistem Koordinat Kartesius dicetuskan oleh Rene Descartes,
+
+
+                                                    ahli matematika berkebangsaan Prancis. Descartes
+
+
+                                       menemukannya ketika mengamati lalat merayap di langit-langit
+
+
+                                                                                                  rumahnya.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                             Sediakan kertas berpetak atau
+
+                                                                                                                             buka aplikasi Geogebra untuk
+
+                                                                                                                          mencoba menggambarkan kasus
+
+
+                             Mari Bereksplorasi                                                                                                  tersebut.
+
+
+
+
+
+               1.  Mula-mula  lalat  berada  di  titik  asal  O  dan  merayap  ke  titik  P(3,  4).  Lalat
+
+
+                   bergerak lagi menuju titik Q(–2, –8) hingga berhenti di titik R(2, –5). Tentukan
+
+                   titik  O  terlebih  dahulu.  Gambarkan  vektor  perjalanan  lalat  dalam  sistem
+
+
+                   koordinat  Kartesius.  Gunakan  penggaris  dan  busur  untuk  menentukan
+
+
+                   panjang dan sudut.
+
+
+               2.  Lalat  mula-mula  berada  pada  titik  (2,  3)  kemudian  bergerak  1  petak  ke  barat
+
+
+                   lanjut dengan 1 petak ke selatan. Tentukan titik asal terlebih dahulu, kemudian
+
+
+                   gambarkan vektornya. Tentukan panjang dan arah vektor.
+
+
+
+                                                                                               Perhatikan video berikut. Pahami,
+
+                                                                                             kemudian cocokkan jawaban anda!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="21"><![CDATA[13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Posisi memerlukan kerangka acuan atau sistem koordinat.
+
+
+                                 Vektor berbeda dengan titik koordinat. Vektor memerlukan
+
+
+
+                                 dua titik koordinat.
+
+
+                                 Pemilihan titik asal pada sistem koordinat tidak
+
+
+                                 memengaruhi besar dan arah vektor karena vektor
+
+
+
+                                 ditentukan oleh dua titik. Jika titik pangkal berubah, maka
+
+
+                                 titik ujung juga berubah.
+
+
+
+                              --> Lokasi suatu titik dapat dinyatakan dalam sistem
+
+
+                        koordinat Kartesius. Pada sistem koordinat dua dimensi, lokasi
+
+
+                        titik dinyatakan dalam pasangan terurut (x, y) dan pada sistem
+
+
+
+                        koordinat tiga dimensi, lokasi titik dinyatakan dalam (x, y, z).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Dapatkah kamu
+
+
+                                                                                    menyebutkan bagaimana
+
+
+                                                                                        penerapan vektor dan
+
+
+                                                                                        sistem koordinat pada
+
+
+
+                                                                                       kehidupan sehari-hari?
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Jika suatu pesawat
+
+
+           berada pada suatu titik
+
+               tertentu dan waktu
+
+
+             tertentu, maka dapat
+
+
+                  diketahui lokasi
+
+
+         berikutnya jika diketahui
+
+              vektor perpindahan
+
+
+                         pesawat.
+
+                                                                                                      Gambar 2.1 Posisi pesawat terbang dalam
+
+
+                                                                                                                    sistem koordinat kartesius
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="22"/><page Index="23"/><page Index="24"><![CDATA[16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   i adalah vektor satuan dalam arah-x (horizontal)
+
+
+                                                 dan j adalah vektor satuan dalam arah-y (vertikal).
+
+
+
+                                                    Vektor satuan mempunyai besar 1 satuan. Arah
+
+
+                                                   horizontal negatif dinyatakan dengan -i dan arah
+
+
+                                                                vertikal negatif dinyatakan dengan -j.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Vektor dengan dua komponen disebut sebagai vektor
+
+
+
+                                          berdimensi dua. Panjang vektor sama dengan jarak
+
+
+                                          antara titik pangkal dengan titik ujung. Jarak antara
+
+
+
+                                                dua titik sama dengan panjang sisi miring dari
+
+
+                                                     segitiga siku-siku(Theorema Phytagoras) .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          2. Komponen-Komponen
+
+
+
+
+
+                                                                                           Vektor
+
+
+
+
+
+
+
+
+
+                                                                          B
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              AB = 6 i + 8 j
+
+
+
+                                                                                                                                                          2
+                                                                                                                                                                     2
+                                                                                              Panjang vektor AB =   6  + 8  = 10
+
+
+
+
+
+
+
+
+
+
+
+
+                          A
+
+
+
+                            Gambar 2.2 Vektor AB dan
+
+
+                              komponen-komponennya
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="25"><![CDATA[17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                               3. Vektor Ekuivalen
+
+
+
+
+
+                                                                                               (Vektor yang Sama)
+
+
+
+
+
+                                                                                                       pada Koordinat
+
+
+
+
+
+                                                                                                                   Kartesius
+
+
+
+
+
+
+
+
+
+
+
+                Ingat bahwa dua vektor ekuivalen jika
+
+                                                                                                                                         Contoh kasus:
+              mempunyai besar dan arah sama, tidak
+
+                                                                                                                           Jika ada beberapa pesawat
+                     bergantung pada letaknya. Hal ini
+                                                                                                                         yang punya kecepatan sama
+
+                    dikarenakan vektor adalah besaran
+                                                                                                                         di udara, maka jalur lintasan
+                       yang mempunyai nilai dan arah.                                                                        akan aman dari tabrakan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Perhatikan dua vektor perpindahan dalam sistem koordinat di
+
+
+
+                                                                                           bawah ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Gambar 2.3 Dua vektor ekuivalen
+
+                                                                                             pada sistem koordinat
+
+
+
+
+
+
+
+
+                                   Vektor u dan v ekuivalen, dinyatakan dengan 4 i + 3 j, walau
+
+
+
+                                 keduanya mempunyai koordinat titik pangkal dan koordinat titik
+
+
+
+                                       ujung yang berbeda. Komponen horizontal dan komponen
+
+
+                                                                                vertikal adalah 4 dan 3.
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="26"><![CDATA[18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              4. Vektor Berdimensi
+
+
+
+
+
+
+                                                                                      Tiga pada Sistem
+
+
+
+
+
+                                                                               Koordinat Kartesius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Perhatikan video berikut dengan seksama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    i adalah vektor satuan dalam arah-x (horizontal), j
+
+
+                                                   adalah vektor satuan dalam arah-y (vertikal) dan k
+
+
+                                                     adalah vektor satuan, yang tegak lurus terhadap
+
+
+
+                                                        bidang xy. Arah horizontal negatif dinyatakan
+
+
+                                                 dengan -i, arah vertikal negatif dinyatakan dengan -j
+
+
+                                                      dan arah negatif dalam z dinyatakan dengan -z.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="27"><![CDATA[19
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           5. Vektor Kolom
+
+
+
+
+
+                                                                                                                                    dan
+
+
+
+
+
+                                                                                                                   Vektor Baris
+
+
+
+
+
+
+
+
+                     Vektor yang dituliskan dalam bentuk kolom adalah vektor kolom.
+
+
+                        Vektor yang dituliskan dalam bentuk baris adalah vektor baris.
+
+
+
+
+
+
+
+
+
+
+
+                                        Komponen-komponen vektor kolom dituliskan sebagai berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Ingat! Penulisaan vektor pada titik
+
+                                                                                          koordinat kartesius tidak
+
+                                                                                             menggunakan koma.
+
+                                                                                           Contoh (0 1) bukan (0,1)
+
+
+
+
+
+                                         Vektor-vektor satuan dalam sistem koordinat Kartesius
+
+
+                                         berdimensi dua adalah:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         Vektor-vektor satuan dalam sistem koordinat Kartesius
+
+
+                                         berdimensi tiga adalah:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="28"><![CDATA[20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     6. Vektor Satuan dari
+
+
+
+
+
+
+                                                                                                                        Suatu Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Vektor satuan menunjukkan                                                          Perhatikan gambar berikut!
+
+
+
+                                   arah vektor dalam suatu
+
+
+                               ruang. Cara mencari vektor
+
+
+                                  satuan diperoleh melalui                                                                                         P(x ,y ,z )
+
+                                                                                                                                                         1
+                                                                                                                                                                 1
+                                                                                                                                                             1
+                            koordinat vektor dan panjang
+
+                                    vektor tersebut. Simbol                                                                                                                     2   2   2
+
+
+
+                                   vektor satuan dituliskan                                                                                                                  Q(x ,y ,z )
+
+
+                                 dengan tanda seperti topi
+
+
+                             yang disebut caret (^) di atas
+
+
+
+                                                          huruf.
+                                                                                                                            Gambar 2.4 Vektor PQ
+
+
+
+                                                                                                                                       PQ
+                                                                                                                      a     =        |PQ|
+                                                                                                                          PQ
+
+                                                                                                                      |PQ| adalah panjang vektor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Contoh Soal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Tentukan vektor satuan dari v = (3 6 4)
+
+
+
+
+                                                                                   [3  6  4]
+
+                                                              v     =
+                                                               ^
+
+
+                                                                                                   2
+                                                                                      2
+                  Penyelesaian:                                                   3  + 6 + 4                   2
+
+
+
+
+ toh Soal                                                                          [3  6  4]
+
+
+                                                                    =
+                                                                                             61
+
+                                                                         [         ]
+
+                                                                                    3        6        4
+
+                                                                    =               61                61               61
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="29"><![CDATA[21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                         7. Vektor Posisi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Vektor posisi adalah vektor yang berpangkal di titik O
+
+
+
+                                     yang merupakan pusat koordinat dan berujung di
+
+
+                                                        suatu titik dalam sistem koordinat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                         Vektor OA dan OB
+
+
+
+                                                                                                                                 merupakan vektor posisi,
+
+
+
+                                                                                                                                    karena dimulai dari titik
+
+
+                                                                                                                                  asal O dan berakhir di A
+
+
+
+                                                                                                                                       dan B. Vektor posisi
+
+
+
+                                                                                                                                  selalu dimulai dari titik O
+
+
+
+                                                                                                                                  dan berakhir pada suatu
+
+
+                                                                                                                                     titik lain. Vektor posisi
+
+
+
+                                                                                                                                    OA dan OB adalah (–3
+
+
+
+                                                                                                                                                2) dan (7 5).
+
+
+
+
+
+
+                           Gambar 2.5 Vektor posisi OA dan OB
+
+
+
+
+
+
+                         8. Vektor Berkebalikan
+
+
+
+
+
+
+
+
+                                                 Vektor berkebalikan adalah vektor yang
+
+
+
+                                                panjangnya                     vektor tersebut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="30"><![CDATA[22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Refleksi
+
+
+
+
+
+
+
+
+
+                    Lokasi suatu titik dapat dinyatakan dalam sistem koordinat Kartesius. Pada
+
+
+                    sistem  koordinat  dua  dimensi,  lokasi  titik  dinyatakan  dalam  pasangan
+
+
+                    terurut (x, y) dan pada sistem koordinat tiga dimensi, lokasi titik dinyatakan
+
+
+                    dalam (x, y, z).
+
+
+                    Komponen vektor dua dimensi:
+
+                    i  adalah  vektor  satuan  dalam  arah-x  (horizontal)  dan  j  adalah  vektor  satuan
+
+
+                    dalam  arah-y  (vertikal).  Vektor  satuan  mempunyai  besar  1  satuan.  Arah
+
+
+                    horizontal  negatif  dinyatakan  dengan  -i  dan  arah  vertikal  negatif  dinyatakan
+
+                    dengan -j. Contoh : AB =6i+8j
+
+
+                    Vektor ekuivalen adalah dua vektor yang mempunyai besar dan arah sama,
+
+
+                    tidak bergantung pada letaknya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Komponen vektor tiga dimensi:
+
+
+                  i  adalah  vektor  satuan  dalam  arah-x  (horizontal),  j  adalah  vektor  satuan  dalam
+
+                  arah-y (vertikal) dan k adalah vektor satuan, yang ortogonal terhadap bidang xy.
+
+                  Arah  horizontal  negatif  dinyatakan  dengan  -i,  arah  vertikal  negatif  dinyatakan
+
+
+                  dengan  -j  dan  arah  negatif  dalam  z  dinyatakan  dengan  -z.terhadap  bidang  xy.
+
+                  Arah  horizontal  negatif  dinyatakan  dengan  -i,  arah  vertikal  negatif  dinyatakan
+
+                  dengan -j dan arah negatif dalam z dinyatakan dengan -z.
+
+                  Vektor  yang  dituliskan  dalam  bentuk  kolom  adalah  vektor  kolom.  Vektor
+
+
+                  yang dituliskan dalam bentuk baris adalah vektor baris. Contoh:
+
+                                                                            3
+                                                          (3 4) atau       untuk vektor berdimensi dua.
+                                                                            4
+
+                                                                             2
+                                                         (2 1 3) atau       untuk vektor berdimensi tiga.
+                                                                             1
+                                                                             3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Vektor satuan menunjukkan arah vektor dalam
+
+                                                   suatu ruang, diperoleh melalui koordinat vektor
+
+
+                                                  dan panjang vektor dan dituliskan dengan tanda
+
+
+                                                   seperti topi yang disebut caret (^) di atas huruf.
+
+
+                                                   Vektor posisi adalah vektor yang berpangkal di
+
+
+                                                       titik O yang merupakan pusat koordinat dan
+
+
+                                                    berujung di suatu titik dalam sistem koordinat.
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="31"><![CDATA[23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                            Latihan 1.3
+
+
+
+
+
+
+
+
+                                      Nyatakan kedua vektor posisi dalam vektor kolom dan vektor
+
+
+                                      baris.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Gambarkan vektor posisi yang diberikan oleh OP = 2i + 2j – 2k
+
+
+
+                                       dan OQ = -i + 2j – k.
+
+
+                                       (Petunjuk: tentukan sumbu x, y, dan z)
+
+
+
+
+
+
+                                      Tentukan vektor satuan dan vektor berkebalikan vektor-vektor
+
+
+
+                                      dalam soal nomor 2.
+
+
+
+                                      Nyatakan vektor-vektor dibawah ini sebagai vektor kolom atau
+
+
+
+                                      vektor baris.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Nyatakan  vektor  satuan  dari
+
+
+                                       vektor  perpindahan  seseorang
+
+
+                                       yang               sedang                  naik             gunung
+
+
+
+                                       dengan  bersepeda.  Tentukan
+
+
+                                       arahnya                           dalam                       sistem
+
+
+
+                                       koordinat.
+
+
+
+                                                                                      Upload foto jawaban anda pada
+
+
+                                                                                                           link berikut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="32"><![CDATA[24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      C. Operasi Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                Pertanyaan Pemantik
+
+
+
+
+                           1.   Bagaimana  cara  melakukan  penjumlahan,  pengurangan  dan
+
+
+                                perkalian vektor secara grafis?
+
+
+                           2.   Bagaimana  cara  melakukan  penjumlahan  vektor  dengan
+
+
+                                menjumlahkan komponen-komponennya?
+
+                           3.   Bagaimana  cara  melakukan  pengurangan  vektor  dengan
+
+
+                                mengurangi komponen-komponennya?
+
+
+                           4.   Bagaimana  cara  melakukan  perkalian  vektor  dengan
+
+
+                                mengalikan komponen-komponennya?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                             Pengalaman Belajar
+
+
+
+
+
+
+
+                                                                    •Melakukan operasi vektor serta
+
+
+                                                               menginterpretasikan hasilnya secara
+
+
+                                                                                  geometris dan fisis.
+
+
+                                                               •Menggunakan operasi vektor untuk
+
+
+
+                                                                      menyelesaikan masalahdalam
+
+
+                                                                               kehidupan sehari-hari.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         Sediakan penggaris, busur, dan kertas berpetak.
+
+
+
+                                     Install aplikasi Geogebra pada PC/Laptop/Notebook
+
+
+
+                                                                                 apabila diperlukan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="33"><![CDATA[25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           Penjumlahan
+
+
+
+
+
+
+
+                                                                                                                            Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             Jika 2 kg gula dan 3 kg gula dijumlahkan, berapa
+
+
+
+                                                                       hasilnya? Pastinya 5 kg. Bagaimana jika
+
+
+                                                          perpindahan 2 m dijumlahkan dengan perpindahan
+
+
+
+                                                           3 m? Seseorang berjalan 2 m ke timur kemudian 3
+
+
+                                                        m ke barat berbeda hasilnya dengan berjalan 2 m ke
+
+
+                                                                               timur kemudian 3 m ke timur lagi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Ilustrasi tersebut berkaitan dengan definisi berikut ini.
+
+
+
+                  Penjumlahan skalar hanya menghasilkan satu jawaban,
+
+
+                   sedangkan penjumlahan vektor menghasilkan berbagai
+
+
+
+                             jawaban karena vektor berkaitan dengan arah.
+
+
+                       Hasil penjumlahan vektor disebut sebagai resultan
+
+
+
+                                                                         vektor.
+
+
+
+
+
+
+
+                           Penjumlahan Dua Vektor dengan Metode Segitiga,
+
+
+                           Metode Jajar Genjang, Metode Poligon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        Simak video berikut ini!
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="34"><![CDATA[26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           Pengurangan
+
+
+
+
+
+
+
+                                                                                                                            Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Hasil pengurangan vektor disebut
+
+
+
+                                                       sebagai resultan vektor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Pengurangan Dua Vektor dengan Metode
+
+
+
+                           Segitiga, Metode Jajar Genjang, Metode Poligon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Simak video berikut ini!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="35"><![CDATA[27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          Perkalian Skalar
+
+
+
+
+
+
+                                                                                                              dengan Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Skalar dapat bernilai positif atau negatif, dapat juga bernilai
+
+
+                                                        lebih dari satu atau kurang dari satu.
+
+
+
+                        Vektor yang dikalikan dengan skalar positif menghasilkan vektor
+
+
+                                                                    dengan panjang berbeda.
+
+
+
+                               Vektor yang dikalikan dengan skalar negatif menghasilkan
+
+
+                           vektor dengan panjang dapat berbeda dan arah berlawanan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                              Gambar 3.1 Perkalian skalar dengan vektor
+
+
+
+
+
+
+
+                              Perkalian Skalar dengan Vektor
+
+
+
+                              Secara Grafis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       Simak video berikut ini!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="36"><![CDATA[28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Refleksi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Hasil penjumlahan ataupun pengurangan vektor
+
+
+
+                                                  disebut sebagai resultan vektor.
+
+
+
+
+                            Penjumlahan maupun pengurangan dua vektor
+
+
+
+                        dapat dilakukan dengan metode segitiga, metode
+
+
+
+
+                                                    jajar genjang, metode poligon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Vektor yang dikalikan dengan skalar positif
+
+
+
+                            menghasilkan vektor dengan panjang berbeda.
+
+
+
+
+                                Vektor yang dikalikan dengan skalar negatif
+
+
+
+                                menghasilkan vektor dengan panjang dapat
+
+
+
+                                                    berbeda dan arah berlawanan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="37"><![CDATA[29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                            Latihan 1.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Perhatikan dua vektor dibawah ini
+
+
+
+                                                               a. Gambarkan 2A
+
+
+                                                               b. Gambarkan 3B
+
+
+
+                                                               c. Gambarkan 2A + 3B
+
+
+
+
+
+
+
+
+
+                            Buat dua titik A(3, 2) dan B(-6, 8) dalam sistem koordinat kartesius.
+
+
+
+                            a. Gambarkan vektor posisi OA dan OB.
+
+
+
+                            b. Gambarkan hasil pengurangan vektor OB dengan OA.
+
+
+
+                            c.  Buat  pengurangan  kedua  vektor  dengan  menggunakan  vektor
+
+
+
+                            kolom.
+
+
+                            Perhatikan gambar vektor-vektor di bawah ini. Operasikan vektor-
+
+
+
+                            vektor  secara  grafis  dan  komponen.  Gunakan  kertas  berpetak
+
+
+
+                            untuk  operasi  vektor  secara  grafis.  Tentukan  juga  panjang  vektor
+
+
+
+                            hasil penjumlahan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            a. EF + GH                                                   d. EF – GH + 2 CD
+
+
+                            b. 2 EF – GH                                                e. EF + GH + CD + AB
+
+
+
+                            c. EF + GH + CD                                          f.  EF – 3 GH – CD
+
+
+
+
+
+
+
+                          Jika vektor a = () dan b = () tunjukkan bahwa a + b = b + a
+
+
+
+
+
+
+
+
+                          Mengapa  metode  jajar  genjang  merupakan  salah  satu  metode
+
+
+                          penjumlahan vektor?
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="38"><![CDATA[30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                            Latihan 1.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Buktikan  bahwa  A,  B,  dan  C  kolienier  terletak  pada  satu  garis
+
+
+
+                             dengan menunjukkan bahwa AB dan BC parallel. Tentukan titik A,
+
+
+
+                             B, dan C terlebih dahulu.
+
+
+
+
+
+
+
+                             Tentukan panjang vektor resultan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             Buatlah 3 vektor sembarang a, b, dan c pada kertas berpetak.
+
+
+
+                             Gambarkan hasil 2a + b – 2c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Klik link berikut untuk
+
+
+
+                         mengerjakan Uji Kompetensi!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="39"><![CDATA[31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+            Halaman
+
+
+
+                       4
+
+
+
+
+
+
+
+
+
+
+                                     Vektor                                                                    Bukan vektor karena garisnya
+
+
+                                                                                                                   terdiri lebih dari satu garis
+
+                                                                                                                                         lurus
+                                                                        Bukan vektor karena
+
+
+                                                                          garisnya lengkung
+
+
+
+
+
+
+
+
+
+                               Bukan vektor karena
+
+
+                         garisnya memiliki dua arah                                                                                                     Vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Halaman
+
+
+
+                       5
+
+
+
+
+
+
+
+                                   A
+
+
+                   3 cm                                                                         Besar sudut pada vektor BA adalah 160                                           O
+
+
+
+                                                                                                Vektor BA menunjukkan arah barat daya
+
+      B
+
+
+
+
+
+
+                                                                                                          B’
+                                                                                                                                                                 A
+
+
+
+
+
+
+
+            Halaman
+
+
+
+                       6
+
+
+
+
+
+
+
+        Vektor lawan dari vektor A dan vektor B
+
+
+
+
+
+                                                                                                    A’
+
+                                                                                                                                                             B
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="40"><![CDATA[32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Halaman
+
+
+
+                          7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                    Vektor-vektor yang ekuivalen
+
+
+
+                                                                                                                adalah AM dan MB,
+
+
+                                                                                                      CN dan NB serta AL dan LC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Halaman 8
+
+
+             Latihan 1.1
+
+
+
+
+
+
+
+                    Teman-teman dapat menggunakan Microsoft Word atau GeoGebra untuk
+
+
+                                                                           menggambar vektor.
+
+
+                                                                               Microsoft Word
+
+
+                Pilih Insert kemudian shapes dan klik gambar anak panah. Klik Outline shape
+
+
+                                                         untuk mengatur warna dan tebal garis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="41"><![CDATA[33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                               Kunci
+
+
+
+
+
+                                                                                                                Jawaban dan
+
+
+
+
+
+                                                                                                                Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           1.    Vektor OA. Skala 1 cm mewakili 20 km/jam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         2. Vektor OB. Skala 1 cm mewakili 20 km/jam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         3. Vektor OC. Skala 1 cm mewakili 20 km/jam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              o
+        4. Vektor OD membentuk sudut 45  dengan sumbu x positif. Skala 1 cm
+
+
+
+            mewakili 20 km/jam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="42"><![CDATA[34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         5. Skala 1 cm mewakili 200 km/jam. Vektor OE membentuk sudut 1200                                                                                                           o
+
+
+                                    o
+             dan -600
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Halaman 9
+
+
+             Latihan 1.2
+
+
+
+
+
+                            1.    Nilai dan arah vektor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           2. Vektor lawan atau vektor negatif dari OP, OQ, dan OR.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="43"><![CDATA[35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Halaman 22
+
+
+                  Latihan 1.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           1.   a = a  i + a  j                                              Gb. 1
+
+                                            1             2
+
+                                OP = a  i + b j + c k                                        Gb. 2
+
+
+
+
+                           2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     (2i + 2j - 2k)                                        (i + j - k)
+
+                          3. Vektor satuan OP =                                                                             =
+
+                                                                                                     12                                                3
+
+
+
+
+
+                                                                                      (-i + 2j - k)
+
+
+                              Vektor satuan OQ =
+
+                                                                                                     6
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="44"><![CDATA[36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                -5
+
+                              4. AB (- 5 - 4) atau
+                                                                                -4
+
+
+
+
+
+                                                                              7
+                                  CD (7 - 3) atau
+                                                                             -3
+
+
+
+
+
+                                                                          6
+                                  EF (6 1) atau
+                                                                          1
+
+
+
+
+
+                                                                           -4
+                                  GH (-4 2) atau
+                                                                            2                                                                                   P
+
+
+
+
+
+                              5. Perpindahan OP = 20 i + 8 j
+
+
+
+
+
+
+                                                                                                                               O
+
+
+
+
+
+
+
+
+               Halaman 28-29
+
+
+
+                  Latihan 1.4
+
+
+
+
+
+
+
+
+
+                          1.   2 A + 3 B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="45"><![CDATA[37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+           2. OA - OB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      OA – OB = (-6 8) – (3 2) = (-9 6)
+
+
+
+                      Hasil  secara  komponen  sesuai  dengan  hasil  secara  grafis  yang
+
+
+                      ditunjukkan oleh vektor A.
+
+
+
+
+
+           3. Menentukan resultan vektor
+
+
+
+
+
+                                   a.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   b.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="46"><![CDATA[38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               c.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                d.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="47"><![CDATA[39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           e.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="48"><![CDATA[40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           e.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="49"><![CDATA[41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           Kunci
+
+
+
+
+
+                                                                                                            Jawaban dan
+
+
+
+
+                                                                                                             Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           4. Menunjukkan sifat komutatif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           5. Metode jajar genjang merupakan salah satu metode penjumlahan
+
+
+               vektor karena sebenarnya jajar genjang mempunyai dua pasang sisi
+
+
+
+               yang sejajar.
+
+
+
+           6. Misalkan A (-3, 2, -1), B (1, 5, -6) dan C (5, 8, -11)
+
+
+
+               Vektor baris dari AB adalah (4 3 -5) dan AC juga adalah (4 3 -5)
+
+
+
+               AB dan AC memiliki titik pangkal yang sama dengan keduanya sejajar
+
+
+               maka titik A, B, dan C segaris.
+
+
+
+           7. Resultan vektor
+
+
+
+           8. Siswa membuat 3 vektor sembarang a, b, dan c pada kertas berpetak.
+
+
+
+               Gambarkan hasil 2a + b – 2c.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="50"><![CDATA[42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                   Bagaimana kesan
+
+
+                                                                                                                        kalian setelah
+
+
+
+                                                                                                                       mempelajari e-
+
+
+
+                                                                                                                            modul ini?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                             Tuliskan pada link berikut demi
+
+
+
+                                                                               kesempurnaan modul ajar ini.
+
+
+
+                                                                                             Salam Matematika!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="51"><![CDATA[Daftar Pustaka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Susanto, D. (n.d.). Matematika.
+
+
+
+                      Rizky, A. 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="52"><![CDATA[Biodata Penulis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Nama                                    : Rizky Ruanda
+
+
+
+                      E-mail                                   : riskyruanda 0101@gmail.com
+
+
+
+                      Tempat dan Tanggal Lahir : Pacitan, 1 November 2001
+
+
+
+
+                      Pekerjaan                             : Mahasiswa
+
+
+
+                      Profil Penulis                       :
+
+
+
+                          Penulis lahir dari orang tua Agus Dahono dan Eri Kusrini sebagai
+
+
+                      anak  tunggal  yang  dilahirkan  di  Desa  Sumberharjo,  Kecamatan
+
+
+
+                      Pacitan, Kabupaten Pacitan, Provinsi Jawa Timur. Penulis menempuh
+
+
+                      pendidikan  dimulai  dari  SDN  Sumberharjo  (2008-2014),  SMPN  1
+
+
+                      Pacitan  (2014-2017),  SMKN  1  Pacitan  (2017-2020),  kemudian
+
+
+
+                      melanjutkan  untuk  menempuh  masa  kuliah  di  STKIP  PGRI  Pacitan
+
+
+                      program studi Pendidikan Matematika (2020-sekarang).
+
+
+
+                             Penulis juga aktif mengikuti organisasi internal kampus seperti
+
+
+                      Dewan  Perwakilan  Mahasiswa  sebagai  Bendahara  Umum,  pengurus
+
+
+
+                      Himpunan  Mahasiswa  Pendidikan  Matematika  (HIMATIKA)  CO  divisi
+
+
+                      Phytagoras,  serta  bergabung  dalam  unit  kegiatan  mahasiswa
+
+
+                      Karawitan, dan Bahana Nirwana.
+
+
+
+                              E-modul  ini  merupakan  karya  pertama  penulis  sebagai  inovasi
+
+
+                      media pembelajaran tingkat SMA/SMK/sederajat untuk meningkatkan
+
+
+
+                      kemandirian  belajar  siswa  dalam  mempelajari  materi  vektor  serta
+
+
+                      sebagai  ajang  pemanfaatan  teknologi  terkini.  Harapannya  karya  ini
+
+
+                      dalam  bermanfaat  dalam  perkembangan  kajian  kelilmuan  sekarang
+
+
+
+                      dan seterusnya. Selamat bermatematika!
+
+
+
+
+                    E-Modul Pembelajaran Fase E
+
+
+                    SMA/SMK Sederajat Kelas X]]></page><page Index="53"/></pages></Search>
